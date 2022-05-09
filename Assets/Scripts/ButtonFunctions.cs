@@ -26,6 +26,13 @@ public class ButtonFunctions : MonoBehaviour
         
     }
 
+    public void PlayOnline()
+    {
+        playerVSai = false;
+        SceneManager.LoadScene("Play Online");
+    }        
+
+
     public void Player1()
     {
         playerVSai = true;

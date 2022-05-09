@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 65b3dc161d867474c8d2fab373bd8681
   - enabled: 1
+    path: Assets/Scenes/Play Online.unity
+    guid: 8708df5e941a1af48ba8f2082446c5b8
+  - enabled: 1
     path: Assets/Scenes/1 Player.unity
     guid: c0cc9cbf5f478cf43b5ab4dabf636426
   - enabled: 1
